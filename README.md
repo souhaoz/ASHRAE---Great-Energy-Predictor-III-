@@ -22,22 +22,22 @@ The dataset includes three years of hourly meter readings from over one thousand
 train.csv,building_meta.csv,weather_[train/test].csv,test.csv,sample_submission.csv
 
 
-## Work Done :
-# 1-Imports
-# 2- Read in Data
-# 3- Reducing Memory Size
-# 4-Merge Data into 2 datasets: train and test
-# 5-Exploratory Data Analysis(EDA)
+# Work Done :
+## 1-Imports
+## 2- Read in Data
+## 3- Reducing Memory Size
+## 4-Merge Data into 2 datasets: train and test
+## 5-Exploratory Data Analysis(EDA)
   - Missing data 
   - column Types
   - Correlations
   - Distribution of the target:  "Meter reading"
 
-# 6-Features understanding
-# 7-Feature engineering and selection¶
-# 8-Modeling
-# 9-test
-# 10-Submission
+## 6-Features understanding
+## 7-Feature engineering and selection¶
+## 8-Modeling
+## 9-test
+## 10-Submission
   
 
 
